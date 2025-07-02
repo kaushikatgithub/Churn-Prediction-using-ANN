@@ -1,0 +1,1 @@
+data_path = './data/churn_modeling_data.csv'
