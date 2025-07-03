@@ -1,1 +1,5 @@
 data_path = './data/churn_modeling_data.csv'
+label_encoder_gender_path = './encoders/label_encoder_gender_feature.pkl'
+onehot_encoder_geography_path = './encoders/onehot_encoder_geography_feature.pkl'
+feature_scalar_path = './encoders/feature_scalar.pkl'
+model_path = './models/ann_model.h5'
